@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Test 1"
             }
+          },
+          {
+            "id": "30cc50515f750863",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace-mobile.json",
+                "bFile": ".obsidian/workspace-mobile.json",
+                "aRef": ""
+              },
+              "icon": "git-pull-request",
+              "title": "Diff: workspace-mobile.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,6 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7ba64e1cac33d32",
-  "lastOpenFiles": []
+  "active": "30cc50515f750863",
+  "lastOpenFiles": [
+    "Test 2.md",
+    "Test 1.md"
+  ]
 }
