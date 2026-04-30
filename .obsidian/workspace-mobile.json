@@ -25,14 +25,14 @@
             "id": "30cc50515f750863",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace-mobile.json",
-                "bFile": ".obsidian/workspace-mobile.json",
-                "aRef": ""
+                "file": "Test 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff: workspace-mobile.json"
+              "icon": "lucide-file",
+              "title": "Test 2"
             }
           }
         ],
@@ -196,7 +196,17 @@
   },
   "active": "30cc50515f750863",
   "lastOpenFiles": [
-    "Test 2.md",
-    "Test 1.md"
+    "https:/github.com/TIMHX/ai-research-wiki.git/config",
+    "https://github.com/TIMHX/ai-research-wiki.git/config",
+    "https://github.com/TIMHX/ai-research-wiki.git",
+    "https://github.com/TIMHX",
+    "https://github.com",
+    "https:/",
+    "https:/github.com/TIMHX/ai-research-wiki.git",
+    "https:/github.com/TIMHX",
+    "https:/github.com",
+    "https:",
+    "Test 1.md",
+    "Test 2.md"
   ]
 }
