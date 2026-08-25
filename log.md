@@ -13,6 +13,12 @@ tags: [meta]
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to `log-YYYY.md`, start fresh.
 
+## [2026-08-25] create | CS6475 Computational Photography course page
+- Domain: OMSCS Fall 2026 course onboarding
+- pages created: concepts/cs6475-computational-photography.md — course policies, Fall 2026 schedule, tech topics, links
+- index.md: updated (6→7 pages)
+- 详细操作信息在 skill cs6475-computational-photography；tickets 在 github.com/TIMHX/CS6475 issues
+
 ## [2026-07-13] ingest | Mamba Architecture Research — batch
 - Domain: Mamba SSM family (architecture research for CS7643 ablation project)
 - raws created: 4 papers

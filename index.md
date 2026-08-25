@@ -18,6 +18,7 @@ tags: [meta]
 - [[mamba-architecture]] — Mamba 家族完整架构：Mamba-1 (selective SSM)、Mamba-2 (SSD)、Mamba-3 (MIMO)
 - [[jamba-hybrid]] — Jamba: 交替 Mamba + Transformer + MoE 的混合架构（AI21 Labs, ICLR 2025）
 - [[vision-mamba]] — Vision Mamba (ViM/VideoMamba/MFuser): Mamba 在视觉领域的应用
+- [[cs6475-computational-photography]] — CS6475 计算摄影课程 (OMSCS Fall 2026)：政策、日程、核心技术主题
 
 ## Comparisons
 
