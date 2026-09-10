@@ -1,7 +1,7 @@
 ---
 title: Wiki Index
 created: 2026-04-30
-updated: 2026-07-13
+updated: 2026-09-10
 type: meta
 tags: [meta]
 ---
@@ -21,6 +21,8 @@ tags: [meta]
 - [[cs6475-computational-photography]] — CS6475 计算摄影课程 (OMSCS Fall 2026)：政策、日程、核心技术主题
 
 ## Comparisons
+
+- [[rerank-score-calibration]] — 四个 rerank 模型的分数标定差异（排序全对但阈值行为迥异，jina-v3 输出负 logit）+ 思考模型的 `<think>` 污染与关闭方式
 
 - [[mamba-vs-transformer]] — 全面对比：复杂度、推理效率、长序列性能、训练生态
 

@@ -42,3 +42,11 @@ tags: [meta]
 - Vault path: ~/Obsidian_Vault_Xing
 - WIKI_PATH configured in ~/.hermes/.env
 - post-commit hook: auto push to GitHub on every commit
+
+## 2026-09-10
+
+- Pages created: 1
+  - comparisons/rerank-score-calibration.md（四个 rerank 模型在同一中文 query 上排序全部正确，
+    但噪音项绝对分数从 0.006 到 0.278 不等，jina-reranker-v3 直接输出负 logit——默认 threshold=0.1
+    会把结果全丢弃。结论：选 rerank 要看噪音落点而非排序指标，版本更新不等于更适用。
+    另记 MiniMax-M3 的 <think> 只能用 `"thinking":{"type":"disabled"}` 关闭，M2.7 完全无视该参数）
